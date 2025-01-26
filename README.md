@@ -2,8 +2,8 @@ Mélanger Paragraphes et Phrases dans Microsoft Word
 Ce dépôt contient un document Microsoft Word avec des macros pour mélanger les paragraphes et les phrases. Il permet aux utilisateurs de rendre aléatoire le contenu de leurs documents sans effort. Suivez les instructions ci-dessous pour utiliser ce document.
 ________________________________________
 Fonctionnalités
-1.	Mélange des paragraphes : Permet de randomiser l'ordre des paragraphes dans le document.
-2.	Mélange des phrases : Permet de randomiser l'ordre des phrases dans chaque paragraphe.
+1.	Mélange des paragraphes : Permet de rendre aléatoire l'ordre des paragraphes dans le document.
+2.	Mélange des phrases : Permet de rendre aléatoire l'ordre des phrases dans chaque paragraphe.
 ________________________________________
 Prérequis
 •	Microsoft Word (version 2016 ou ultérieure recommandée).
