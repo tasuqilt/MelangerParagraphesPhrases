@@ -1,6 +1,5 @@
 Mélanger Paragraphes et Phrases dans Microsoft Word
-
-Ce dépôt contient un document Microsoft Word avec des macros pour mélanger les paragraphes et les phrases. Il permet aux utilisateurs de rendre aléatoire le contenu de leurs documents sans effort. Suivez les instructions ci-dessous pour utiliser ce document.
+Ce dépôt contient un document Microsoft Word avec des macros permettant de mélanger les paragraphes et les phrases. Vous pouvez ainsi rendre aléatoire facilement le contenu de vos documents. Suivez les instructions ci-dessous pour utiliser ce document.
 ________________________________________
 Fonctionnalités
 1.	Mélange des paragraphes : Permet de rendre aléatoire l'ordre des paragraphes dans le document.
@@ -32,9 +31,9 @@ o	Appuyez sur Ctrl + V (Windows) ou Cmd + V (Mac).
 Étape 4 : Exécuter les macros
 1.	Appuyez sur Alt + F8 (Windows) ou Option + F8 (Mac) pour ouvrir la boîte de dialogue Macros.
 2.	Sélectionnez l'une des macros suivantes :
-o	ShuffleParagraphs : Mélange les paragraphes.
-o	ShuffleSentences : Mélange les phrases dans chaque paragraphe.
-o	ShuffleParagraphsAndSentences : Mélange les paragraphes et les phrases.
+o	MelangerParagraphes : Mélange les paragraphes.
+o	MelangerPhrases: Mélange les phrases dans chaque paragraphe.
+o	MelangerParagraphesPhrases: Mélange les paragraphes et les phrases.
 3.	Cliquez sur Exécuter.
 Étape 5 : Enregistrer le document mélangé
 1.	Enregistrez votre contenu mélangé :
