@@ -47,7 +47,7 @@ Dépannage
 •	Modifications sauvegardées accidentellement : Gardez une copie de sauvegarde de votre document original avant de le mélanger.
 ________________________________________
 Considérations de sécurité
-•	Ce document activé pour les macros contient des scripts VBA. Assurez-vous de faire confiance à la source avant d'activer les macros.
+•	Ce document activé pour les macros contient des scripts VBA. Il est développé par TASUQILT et est sécure d'activer les macros désignées.
 •	Vous pouvez examiner le code VBA en appuyant sur Alt + F11 et en inspectant le code dans l'éditeur Visual Basic pour Applications (VBA).
 ________________________________________
 Contribuer
